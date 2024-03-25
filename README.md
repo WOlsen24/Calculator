@@ -13,3 +13,4 @@ What I think I could learn in the future:
 - Exception handling (using try and catch to make my programming more efficient)
 - Learning more data structures beyond arrays and array lists
 - Learning Database integration in order to store data from my code
+![Screenshot 2024-03-25 193609](https://github.com/WOlsen24/Calculator/assets/164887396/917779b0-9642-4500-ba67-81a0ce75cde7)
