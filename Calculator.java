@@ -1,6 +1,6 @@
 /*
 Name: William Olsen
-Calculus Formula Calculator
+Formula Calculator
 */
 
 import java.util.Scanner;
