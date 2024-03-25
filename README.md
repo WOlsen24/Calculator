@@ -6,7 +6,6 @@ From this project, I learned/improved upon:
 ------------------------------------------
 - More efficient conditional logic (use of if and else if)
 - Error checking with conditions for invalid user input
-------------------------------------------- 
 
 What I think I could learn in the future:
 -----------------------------------------
